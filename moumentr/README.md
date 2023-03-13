@@ -6,7 +6,7 @@
 وقبلها يرجى تنزيل
 - [Install `git`](https://git-scm.com/downloads)
 - [Python3](https://www.python.org/downloads/)
-
+- [شرح تنزيل - Python3](https://www.youtube.com/watch?v=VkdkwxGka3M)
 
 
 
